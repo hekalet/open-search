@@ -13,6 +13,15 @@
     font-family: 'Lexend', sans-serif;
 }
 
+.beheader{
+    min-height: 5vh;
+}
+.beegtext{
+    font-size: 35px;
+}
+.begone{
+    color: #FFF;
+}
 body {
     margin: 0;
     background-color: #FFF;
